@@ -13,8 +13,7 @@
 
 <details>
     <summary>:zap: Statistics:</summary>
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marityr&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marityr&show_icons=true" />
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marityr&langs_count=8&layout=compact" style="max-width: 50%;float: right;"/>
+    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Marityr&show_icons=true" style="max-width: 50%;float: left;"/>
 </details>
 
