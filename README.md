@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" alt="">
 <img src="https://img.shields.io/badge/JS-blue?style=for-the-badge" alt="">
 </p>
-<br>
-https://github-readme-stats.vercel.app/api/top-langs/?username=Marityr&layout=compact
+
 
 
