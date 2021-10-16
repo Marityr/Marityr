@@ -7,8 +7,7 @@
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" alt="">
 <img src="https://img.shields.io/badge/JS-blue?style=for-the-badge" alt="">
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Marityr=anuraghazra)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Marityr=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Marityr=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
