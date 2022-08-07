@@ -1,4 +1,4 @@
-[![Header](https://github.com/Marityr/Marityr/blob/main/assets/baner.png)]()
+[![Header](https://github.com/Marityr/Marityr/blob/main/assets/mylogo.png)](https://github.com/Marityr/)
 
 
 ## Languages and Tools:
