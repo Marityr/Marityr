@@ -33,4 +33,11 @@ Telegram | Email | Linkindin | Watsapp | VK
 
 <img src="https://www.codewars.com/users/Marityr/badges/small" style="width: 100%">
 
+<style>
+    td {
+        border : 0px;
+    }
+</style>
+
+
 
