@@ -1,7 +1,7 @@
 [![Header](https://github.com/Marityr/Marityr/blob/main/assets/mylogo.png)](https://github.com/Marityr/)
 
 ## Languages and Tools:
-<table width="100%">
+<table width="100%" border="0">
     <tr>
         <td align="left" width="50%">
             <img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge">
