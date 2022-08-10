@@ -3,7 +3,7 @@
 ## Languages and Tools:
 <table width="100%" border="0">
     <tr>
-        <td align="left" width="50%">
+        <td align="left" width="50%" border="0">
             <img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge">
             <img src="https://img.shields.io/badge/Gin-blue?style=for-the-badge">
             <img src="https://img.shields.io/badge/Gorm-blue?style=for-the-badge">
@@ -13,7 +13,7 @@
             <img src="https://img.shields.io/badge/MYSQL-blue?style=for-the-badge" alt="">
             <img src="https://img.shields.io/badge/MSSQL-blue?style=for-the-badge" alt="">
         </td>
-        <td align="right" width="50%">
+        <td align="right" width="50%" border="0">
             <img src="https://img.shields.io/badge/python-blue?style=for-the-badge">
             <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge">
             <img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge">
