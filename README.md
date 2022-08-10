@@ -1,7 +1,7 @@
 [![Header](https://github.com/Marityr/Marityr/blob/main/assets/mylogo.png)](https://github.com/Marityr/)
 
 ## Languages and Tools:
-<p style="text-align: left; display: inline-block; width: 50%">
+<p align="left">
     <img src="https://img.shields.io/badge/Golang-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/Gin-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/Gorm-blue?style=for-the-badge">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/MSSQL-blue?style=for-the-badge" alt="">
 
 </p>
-<p style="text-align: right; display: inline-block; width: 50%">
+<p align="right">
     <img src="https://img.shields.io/badge/python-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/DRF-blue?style=for-the-badge">
     <img src="https://img.shields.io/badge/FastAPI-blue?style=for-the-badge">
