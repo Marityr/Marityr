@@ -1,7 +1,7 @@
 [![Header](https://github.com/Marityr/Marityr/blob/main/assets/mylogo.png)](https://github.com/Marityr/)
 
 
-## Social contats
+## Social contacts
 [Telegram](https://t.me/Woronow) | [Email](mailto:dmitriy.woronow) 
 
 ---
