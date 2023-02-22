@@ -2,7 +2,7 @@
 
 
 ## Social contacts
-[Telegram](https://t.me/Woronow) | [Email](mailto:dmitriy.woronow) 
+[Telegram](https://t.me/D_voronov) | [Email](mailto:dmitriy.woronow@gmail.com) 
 
 ---
 
